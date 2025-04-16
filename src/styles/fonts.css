@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Slick';
+  src: url('/fonts/slick.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Apply Slick font as an additional optional font to the whole project */
+body {
+  font-family: 'Slick', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Apply Slick font to headings for a more distinctive look */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Slick', serif;
+}

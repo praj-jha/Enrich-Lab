@@ -1,0 +1,27 @@
+<svg viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: serif;
+      font-weight: bold;
+      font-size: 36px;
+    }
+    .subtitle {
+      font-family: serif;
+      font-style: italic;
+      font-size: 18px;
+    }
+    .underline {
+      stroke: white;
+      stroke-width: 2px;
+    }
+  </style>
+  
+  <!-- Main title -->
+  <text x="50" y="45" class="title" fill="white">ENRICH+ Research Lab</text>
+  
+  <!-- Underline -->
+  <line x1="50" y1="55" x2="550" y2="55" class="underline" />
+  
+  <!-- Subtitle -->
+  <text x="185" y="80" class="subtitle" fill="white">AI that Transforms, NLP that Empowers</text>
+</svg>
